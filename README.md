@@ -12,3 +12,6 @@
 1. Set the environment variable `BROWSER` to `none`
 2. Start development server: `yarn start`
 3. Start electron application: `yarn run start-app`
+
+## Check out the source
+Find the Node Launcher integration in [index.js](https://github.com/decentralized-authority/ethereum-nl-demonstration/blob/master/index.js). To see the source of Node launcher itself, check out its [repo](https://github.com/decentralized-authority/node-launcher/tree/dev).
